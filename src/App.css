@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+
+.title{
+  background-color: #1784a0;
+  font-weight: bold;
+  text-align: left;
+  font-size: 1.1em;
+  margin-bottom: 12px;
+  height: 30px;
+  padding-left: 20px;
+}
